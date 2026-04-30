@@ -4,9 +4,9 @@ Template pengerjaan 3 kasus Kaggle dengan alur seragam:
 EDA -> Preprocessing -> Baseline ML -> Deep Learning -> Evaluasi -> Error Analysis -> Kesimpulan.
 
 Notebook:
-- `notebooks/01_titanic_template.ipynb`
-- `notebooks/02_mnist_template.ipynb`
-- `notebooks/03_tweets_template.ipynb`
+- `notebooks/01_titanic.ipynb`
+- `notebooks/02_mnist.ipynb`
+- `notebooks/03_tweets.ipynb`
 
 ## Cara Menjalankan
 
