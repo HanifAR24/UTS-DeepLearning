@@ -12,7 +12,7 @@ Notebook:
 
 Wajib gunakan environment terisolasi agar reproducible di device mana pun.
 
-### Windows (PowerShell)
+### Windows (PowerShell) Bisa Run di browser Localhost atau di code editor, kalau mau run di code editor bukan di browser hilangka baris code "jupyter notebook" dari rangkaian code di bawah ini.
 ```powershell
 py -3.11 -m venv .venv
 .venv\Scripts\activate
@@ -25,7 +25,6 @@ jupyter notebook
 Lalu pilih kernel `Python (uts-dl)` saat membuka notebook.
 
 ## Quick Verify
-
 Jalankan cek singkat berikut setelah instalasi:
 
 ```powershell
