@@ -1,0 +1,27 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# Datasets & Cache
+.cache/
+data/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
